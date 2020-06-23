@@ -30,6 +30,12 @@ Please follow the relevant coding conventions depending on the project type list
 
 * [Unity project conventions].
 
+## Documentation Guidelines
+
+Please follow the documentation guidelines listed below:
+
+* [Unity documentation guidelines].
+
 ## Commit Messages
 
 All pull request commit messages are automatically checked using [GitCop] - this will inform you if there are any issues with your commit message and give you an opportunity to rectify any issues.
@@ -120,5 +126,6 @@ Do not include any copyright notices in any files committed to the repository. A
 [Account]: https://github.com/join?source=header-home
 [Fork]: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 [Unity project conventions]: https://github.com/ExtendRealityLtd/.github/blob/master/CONVENTIONS/UNITY3D.md
+[Unity documentation guidelines]: https://github.com/ExtendRealityLtd/Guidelines.Documentation
 [GitCop]: http://gitcop.com
 [GitHub Terms Of Service]: https://help.github.com/en/articles/github-terms-of-service#6-contributions-under-repository-license
