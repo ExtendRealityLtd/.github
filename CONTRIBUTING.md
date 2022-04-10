@@ -93,7 +93,7 @@ feat(my-teleport-feature): my feature.
 feat(Teleport): add fade camera option on teleport
 ```
 
-##' Breaking Changes
+### Breaking Changes
 
 Any commit that includes a breaking change should clearly denote in the commit body with the phrase `BREAKING CHANGE:` followed by a description of what the breaking change is and any required migrations expected of consumers such as references to deprecated methods.
 
